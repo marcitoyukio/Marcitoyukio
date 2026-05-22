@@ -17,7 +17,7 @@
 
 <div style="display: inline-block"><br/>
 <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="center" alt="JavaScript" height="30" width="40" src=<img width="512" height="512" alt="python" src="https://github.com/user-attachments/assets/24c6f97f-8e8b-4d39-9f44-40ff82165383"/>
+<img align="center" alt="Python" height="30" width="40" src=<img width="512" height="512" alt="python" src="https://devicon-website.vercel.app/api/python/original.svg"/>
 <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
 
