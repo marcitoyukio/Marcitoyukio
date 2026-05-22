@@ -2,7 +2,7 @@
 
 #### About me: 
 
-🏫 Information Systems Student at FIAP
+🏫 Bachelor of Systems Information
 
 💼 Back-End Developer 🚀
 
@@ -16,13 +16,15 @@
 ## ⚡ Techs that I use
 
 <div style="display: inline-block"><br/>
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcitoyukio&layout=compact&theme=merko"/>
+<img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="center" alt="JavaScript" height="30" width="40" src=<img width="512" height="512" alt="python" src="https://github.com/user-attachments/assets/24c6f97f-8e8b-4d39-9f44-40ff82165383" />
+ />
+<img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
 
 ## 💡 I also like
 
 <div style="display: inline-block"><br/>
-<img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="center" alt="Adonis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
 <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
